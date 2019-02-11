@@ -1,0 +1,1 @@
+This is Soo's first git project!
